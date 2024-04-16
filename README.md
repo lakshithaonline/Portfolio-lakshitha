@@ -4,9 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/lakshitha-geethmal) | [GitHub](https://github.com/lakshithaonline) | [Facebook](https://web.facebook.com/lakshitha.geethmal/) 
 
-## Contact Information
-- Email: lakshithageethmal@gmail.com
-- Location: Galle, Sri Lanka
+- Email: lakshithageethmal@gmail.com | Phone: +94 77 317 3165
 
 ## Education 			        		
 - B.Sc, MIS (Special) | NSBM Green University (_November 2024_)
