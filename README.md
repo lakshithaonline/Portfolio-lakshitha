@@ -3,17 +3,15 @@
 #### Technical Skills: Java, C#, SpringBoot, TypeScript, AngularJS, React, Mongo, AWS, 
 
 ## Education 			        		
-- B.S., MIS (Special) | NSBM Green University (_November 2024_)
+- B.Sc, MIS (Special) | NSBM Green University (_November 2024_)
 
 ## Work Experience
 **Associate Software Engineer @ Efito Solutions (Pvt) Ltd (_February 2024 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+-  I am actively engaged in the development of our company-owned Email Template project. My primary focus involves creating customizable email templates, enhancing communication efficiency for our clients. Leveraging my expertise in software engineering, I ensure the seamless integration of customization features, optimizing user experience and client satisfaction.
 
 **Software Engineering Trainee @ Efito Solutions (Pvt) Ltd (_August 2023 - February 2024_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
+- As a Software Engineering Trainee at Efito Solutions (Pvt) Ltd, I led the development of the Muzmanim project at MazelPost. My role involved crafting a digital invitation platform for unique Jewish events, integrating English and Hebrew seamlessly. I was responsible for ensuring personalized invitations and hassle-free RSVP tracking, showcasing my proficiency in Fullstack Programming with TypeScript and Next.js
+  
 ## Projects
 ### Employee Management System & Employee Attrition Prediction Model | Standalone Application
 [Publication](https://shorturl.at/ozDMQ)
