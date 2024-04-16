@@ -2,9 +2,11 @@
 
 #### Technical Skills: Java, C#, SpringBoot, TypeScript, AngularJS, React, Mongo, AWS, 
 
-[LinkedIn](https://www.linkedin.com/in/lakshitha-geethmal) | [GitHub](https://github.com/lakshithaonline) | [Facebook](https://web.facebook.com/lakshitha.geethmal/) 
+Contact:
+- Email: [lakshithageethmal@gmail.com](mailto:lakshithageethmal@gmail.com)
+- Phone: [+94 77 317 3165](tel:+94773173165)
 
-- Email: lakshithageethmal@gmail.com | Phone: +94 77 317 3165
+[LinkedIn](https://www.linkedin.com/in/lakshitha-geethmal) | [GitHub](https://github.com/lakshithaonline) | [Facebook](https://web.facebook.com/lakshitha.geethmal/) 
 
 ## Education 			        		
 - B.Sc, MIS (Special) | NSBM Green University (_November 2024_)
