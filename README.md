@@ -4,9 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/lakshitha-geethmal) | [GitHub](https://github.com/lakshithaonline) | [Facebook](https://web.facebook.com/lakshitha.geethmal/) 
 
-[![LinkedIn]([https://i.imgur.com/zfA4g6e.png](https://raw.githubusercontent.com/lakshithaonline/Portfolio-lakshitha/main/assets/img/linkedin.png))](https://www.linkedin.com/in/lakshitha-geethmal) 
-[![GitHub]([https://i.imgur.com/9I4jNCB.png](https://github.com/lakshithaonline/Portfolio-lakshitha/blob/main/assets/img/github.png?raw=true))](https://github.com/lakshithaonline) 
-[![Facebook]([https://i.imgur.com/7OrNIfO.png](https://github.com/lakshithaonline/Portfolio-lakshitha/blob/main/assets/img/facebook.png?raw=true))](https://web.facebook.com/lakshitha.geethmal/) 
+[![LinkedIn]([https://i.imgur.com/zfA4g6e.png](https://raw.githubusercontent.com/lakshithaonline/Portfolio-lakshitha/main/assets/img/linkedin.png))](https://www.linkedin.com/in/lakshitha-geethmal) [![GitHub]([https://i.imgur.com/9I4jNCB.png](https://github.com/lakshithaonline/Portfolio-lakshitha/blob/main/assets/img/github.png?raw=true))](https://github.com/lakshithaonline) [![Facebook]([https://i.imgur.com/7OrNIfO.png](https://github.com/lakshithaonline/Portfolio-lakshitha/blob/main/assets/img/facebook.png?raw=true))](https://web.facebook.com/lakshitha.geethmal/) 
 
 ## Education 			        		
 - B.Sc, MIS (Special) | NSBM Green University (_November 2024_)
