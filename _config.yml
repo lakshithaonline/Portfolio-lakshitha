@@ -1,5 +1,9 @@
+---
 title: Lakshitha Geethmal
 logo: /assets/img/profile.png
 #description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+show_downloads: false
+theme: jekyll-theme-cayman
+---
+
+<h1 style="white-space: nowrap;">Lakshitha Geethmal</h1>
