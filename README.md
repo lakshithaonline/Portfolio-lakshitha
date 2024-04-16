@@ -4,23 +4,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/lakshitha-geethmal) | [GitHub](https://github.com/lakshithaonline) | [Facebook](https://web.facebook.com/lakshitha.geethmal/) 
 
-<div style="display: flex; align-items: center;">
-        <img src="https://raw.githubusercontent.com/lakshithaonline/Portfolio-lakshitha/main/assets/img/linkedin.png" alt="LinkedIn" width="20" height="20">
-    </a>
-    <span> [LinkedIn](https://www.linkedin.com/in/lakshitha-geethmal) </span>
-    <span> | </span>
-        <img src="https://github.com/lakshithaonline/Portfolio-lakshitha/blob/main/assets/img/github.png?raw=true" alt="GitHub" width="20" height="20">
-    </a>
-    <span> [GitHub](https://github.com/lakshithaonline) </span>
-    <span> | </span>
-        <img src="https://github.com/lakshithaonline/Portfolio-lakshitha/blob/main/assets/img/facebook.png?raw=true" alt="Facebook" width="20" height="20">
-    </a>
-    <span> [Facebook](https://web.facebook.com/lakshitha.geethmal/) </span>
-</div>
-
-
-
-
+## Contact Information
+- Email: lakshithageethmal@gmail.com
+- Location: Galle, Sri Lanka
 
 ## Education 			        		
 - B.Sc, MIS (Special) | NSBM Green University (_November 2024_)
