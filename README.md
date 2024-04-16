@@ -5,18 +5,20 @@
 [LinkedIn](https://www.linkedin.com/in/lakshitha-geethmal) | [GitHub](https://github.com/lakshithaonline) | [Facebook](https://web.facebook.com/lakshitha.geethmal/) 
 
 <div style="display: flex; align-items: center;">
+    <span>LinkedIn: </span>
     <a href="https://www.linkedin.com/in/lakshitha-geethmal">
         <img src="https://raw.githubusercontent.com/lakshithaonline/Portfolio-lakshitha/main/assets/img/linkedin.png" alt="LinkedIn" width="20" height="20">
     </a>
-    <span> | </span>
+    <span> | GitHub: </span>
     <a href="https://github.com/lakshithaonline">
         <img src="https://github.com/lakshithaonline/Portfolio-lakshitha/blob/main/assets/img/github.png?raw=true" alt="GitHub" width="20" height="20">
     </a>
-    <span> | </span>
+    <span> | Facebook: </span>
     <a href="https://web.facebook.com/lakshitha.geethmal/">
         <img src="https://github.com/lakshithaonline/Portfolio-lakshitha/blob/main/assets/img/facebook.png?raw=true" alt="Facebook" width="20" height="20">
     </a>
 </div>
+
 
 
 
