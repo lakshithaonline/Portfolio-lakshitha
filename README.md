@@ -2,12 +2,18 @@
 
 #### Technical Skills: Java, C#, SpringBoot, TypeScript, AngularJS, React, Mongo, AWS, 
 
+[LinkedIn](https://www.linkedin.com/in/lakshitha-geethmal) | [GitHub](https://github.com/lakshithaonline) | [Facebook](https://web.facebook.com/lakshitha.geethmal/) 
+
+[![LinkedIn]([https://i.imgur.com/zfA4g6e.png](https://raw.githubusercontent.com/lakshithaonline/Portfolio-lakshitha/main/assets/img/linkedin.png))](https://www.linkedin.com/in/lakshitha-geethmal) 
+[![GitHub]([https://i.imgur.com/9I4jNCB.png](https://github.com/lakshithaonline/Portfolio-lakshitha/blob/main/assets/img/github.png?raw=true))](https://github.com/lakshithaonline) 
+[![Facebook]([https://i.imgur.com/7OrNIfO.png](https://github.com/lakshithaonline/Portfolio-lakshitha/blob/main/assets/img/facebook.png?raw=true))](https://web.facebook.com/lakshitha.geethmal/) 
+
 ## Education 			        		
 - B.Sc, MIS (Special) | NSBM Green University (_November 2024_)
 
 ## Work Experience
 **Associate Software Engineer @ Efito Solutions (Pvt) Ltd (_February 2024 - Present_)**
--  I am actively engaged in the development of our company-owned Email Template project. My primary focus involves creating customizable email templates, enhancing communication efficiency for our clients. Leveraging my expertise in software engineering, I ensure the seamless integration of customization features, optimizing user experience and client satisfaction.
+-  I am actively engaged in the development of our company-owned Email Template project. My primary focus involves creating customizable email templates and enhancing communication efficiency for our clients. Leveraging my expertise in software engineering, I ensure the seamless integration of customization features, optimizing user experience and client satisfaction.
 
 **Software Engineering Trainee @ Efito Solutions (Pvt) Ltd (_August 2023 - February 2024_)**
 - As a Software Engineering Trainee at Efito Solutions (Pvt) Ltd, I led the development of the Muzmanim project at MazelPost. My role involved crafting a digital invitation platform for unique Jewish events, integrating English and Hebrew seamlessly. I was responsible for ensuring personalized invitations and hassle-free RSVP tracking, showcasing my proficiency in Fullstack Programming with TypeScript and Next.js
@@ -60,4 +66,4 @@ Web-based fully responsive Flight Booking System for Phoenix Airline based on th
 8. Foundations of User Experience (UX) Design | [Google](https://coursera.org/verify/WASDK9R5TSL3) 
 9. Foundations of User Experience (UX) Design | [Google](https://coursera.org/verify/MD5NDHR9CL5H) 
 
-- [LinkedIn](https://www.linkedin.com/in/lakshitha-geethmal)
+
